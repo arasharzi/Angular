@@ -1,0 +1,35 @@
+nav 
+{
+  -webkit-flex: 1;
+  -ms-flex: 1;
+  flex: 1;
+  background: #ccc;
+  padding: 20px;
+}
+
+nav ul 
+{
+  list-style-type: none;
+  padding: 0;
+}
+
+nav ul li
+{
+  padding: 4px;
+}
+
+a
+{
+  color: black;
+}
+
+a:link
+{
+  text-decoration: none;
+}
+
+a:hover
+{
+  background-color: grey;
+  color: white;
+}
